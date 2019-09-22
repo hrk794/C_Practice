@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define SIZE 3
+#define SIZE 6
 
 void showarray(int array[]);
 
