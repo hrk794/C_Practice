@@ -19,6 +19,7 @@ int main()
 			blank++;
 		if (ispunct(phrase[index]))
 			punct++;
+		index++;
 	}
 
 	/* Print Results */
