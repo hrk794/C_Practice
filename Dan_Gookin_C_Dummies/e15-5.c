@@ -1,3 +1,6 @@
+// This one is about using the exit() function from the stdlib to bail out.
+// return() or exit() can be used anywhere in the program.
+
 #include <stdio.h>
 #include <stdlib.h>
 
